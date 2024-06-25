@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584936668036",
+    "project_id": "dwidaffa-db55f",
+    "storage_bucket": "dwidaffa-db55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584936668036:android:304c44460ffed3a2d7bbd1",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJ3GIEWV8xZ7Dscv6vAGAwe06vmb6FgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
